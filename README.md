@@ -19,3 +19,4 @@ This repository contains the tasks that I completed while working as an intern f
 <li>The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.</li>
 <li>Data can be found at <a href="https://bit.ly/3kXTdox" rel="nofollow">https://bit.ly/3kXTdox</a></li>
 </ol>
+<h3>Github Link</h3>https://github.com/iamprateeksmith/The-Sparks-Foundation-Tasks/blob/main/Task%203%20-%20Prediction%20using%20Decision%20Tree%20Algorithm-checkpoint.ipynb
