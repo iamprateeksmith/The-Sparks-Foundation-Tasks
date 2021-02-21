@@ -19,13 +19,3 @@ This repository contains the tasks that I completed while working as an intern f
 <li>The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.</li>
 <li>Data can be found at <a href="https://bit.ly/3kXTdox" rel="nofollow">https://bit.ly/3kXTdox</a></li>
 </ol>
-
-
-
-  </div>
-</div>
-
-    </main>
-  </div>
-
-  </div>
